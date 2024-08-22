@@ -52,7 +52,7 @@ Recomendo a utilização do [VS Code](https://code.visualstudio.com/) para edita
 
 ```bash
 # Clone o repositório
-git clone git clone https://github.com/GreatWhoOne/clique-perfeito
+git clone https://github.com/GreatWhoOne/clique-perfeito
 
 # Entre na pasta do projeto
 cd clique-perfeito
